@@ -1,0 +1,18 @@
+h3{text-shadow:#afafaf 2px 3px 2px;
+   color:#333333;
+   font-family:"ËÎÌו";
+   text-align:center;}
+
+h4{color:#999999;
+  text-align:center;}
+
+p span{color:#ff0000;}
+
+body p:nth-of-type(1){text-align:center;
+			color:#333333;}
+div~p{text-indent:2em;}
+body p:nth-of-type(5){font-weight:bold;}
+body p:nth-of-type(2){font-style:italic;}
+body p:nth-of-type(3){font-style:italic;}
+body p:nth-of-type(4){font-style:italic;}
+#image{text-align:center;}
